@@ -21,3 +21,5 @@ eggs/
 .eggs/
 *.egg
 *.sh
+.idea
+.vscode
